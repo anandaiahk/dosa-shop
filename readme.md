@@ -3,4 +3,8 @@
 # plain-dosa prepare
 
 * dosa batter
-* oil better
+* oil better 
+
+# karam-dosa
+
+* dosa batter
