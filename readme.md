@@ -16,3 +16,5 @@
 * single egg
 * oi; and karram
 
+## paneer-dosa
+* dosa batter
