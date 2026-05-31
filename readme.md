@@ -19,3 +19,4 @@
 ## paneer-dosa
 * dosa batter
 * paneer
+* mysoor and maala
