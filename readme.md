@@ -13,5 +13,5 @@
 
 ## egg-dosa
 * dosa-batter
-* 2 eggs
-* oil added
+:
+
