@@ -13,5 +13,6 @@
 
 ## egg-dosa
 * dosa-batter
-:
+* single egg
+* oi; and karram
 
